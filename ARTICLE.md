@@ -4,8 +4,8 @@ This is an interesting research paper I found about Multi-Modal-RAG. Really rele
 
 [Multi-Modal Retrieval-Augmented Generation (MM-RAG)](https://arxiv.org/abs/2504.20734)
 
-This paper describes a retrieval‑augmented generation approach that combines multiple modalities (text, images, etc.) into the retrieval and generation pipeline. It is interesting because it formalizes cross‑modal indexing and scoring, allowing systems to fetch and fuse relevant signals from heterogeneous sources before generating responses.
+This paper describes a retrieval‑augmented generation approach that combines multiple modalities into the retrieval and generation pipeline. It is interesting because it introduces cross‑modal indexing and scoring, allowing systems to fetch and combine relevant documents from different sources before generating responses.
 
-Practical relevance for software engineering includes improved code and documentation search, richer debugging assistants that use screenshots and logs alongside text, and designs for integrating multimodal context into existing RAG systems.
+Practical relevance for software engineering includes improved code and documentation search, and designs for integrating multimodal context into existing RAG systems.
 
 
