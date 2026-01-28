@@ -9,5 +9,10 @@ This paper describes a retrieval‑augmented generation approach that combines m
 Practical relevance for software engineering includes improved code and documentation search, and designs for integrating multimodal context into existing RAG systems.
 
 
+## Comment by Sadaf Habib
+
+I found this paper interesting because it shows how RAG systems can work across different data types, not just text. The idea of cross-modal retrieval feels very relevant for real software systems, especially for searching across code,
+documentation, and other technical resources.
+
 
 Comment from [Tianze]: I read the article you shared and I found it very Interesting!
